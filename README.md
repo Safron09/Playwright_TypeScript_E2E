@@ -1,8 +1,9 @@
 # Kaiju Test Framework
 
-Playwright + TypeScript test framework covering UI and API layers. Built as a take-home assignment project.
+Playwright + TypeScript test framework covering UI and API layers, with 2FA authentication, 
+Docker containerization, and GitHub Actions CI/CD pipeline.
 
-UI tests run against the Kaiju MDM platform. API tests use [JSONPlaceholder](https://jsonplaceholder.typicode.com) as a public test API.
+UI tests run against the Kaiju MDM platform. API tests use JSONPlaceholder as a public test API.
 
 ---
 
